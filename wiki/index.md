@@ -18,3 +18,32 @@
 ## Ideas
 - [[startup_ideas_india]] — Business opportunities
 - [[rural_software]] — Rural leverage ideas
+
+  # 🧠 Anirban Wiki
+
+## Knowledge
+- [[fitness_system]]
+- [[leg_day_protocol]]
+- [[upper_body_protocol]]
+- [[micro_movement_protocol]]
+
+- [[nutrition_system]]
+- [[diet_protocol]]
+
+- [[learning_system]]
+- [[systems_thinking]]
+- [[devops_skill_stack]]
+
+- [[trading_system]]
+- [[multibagger_framework]]
+- [[asymmetry_correction]]
+
+## Ideas
+- [[micro_movement_idea]]
+- [[long_bias_fix_idea]]
+
+## Projects
+- [[second_brain_system]]
+
+## Logs
+- [[2026-04-17]]
